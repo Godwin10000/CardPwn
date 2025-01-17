@@ -1,7 +1,9 @@
 
 import os
 import sys
-import requests
+import git clone https://github.com/itsmehacker/CardPwn.git
+cd CardPwn
+pip3 install -r requirements.txt
 from googlesearch import search
 
 
